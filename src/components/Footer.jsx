@@ -1,7 +1,7 @@
 import React from 'react';
 import Todos from './Todos';
 import Posts from './Posts';
-import Comments from './Comments';
+import Comments from './comments';
 
 function Footer() {
     return (
