@@ -1,6 +1,6 @@
 import React from 'react';
-import { Route, Routes, NavLink } from "react-router-dom";
-import Footer from './components/Footer';
+import Footer from './Footer';
+import { NavLink } from 'react-router-dom';
 
 
 function Header() {
@@ -43,10 +43,7 @@ function Header() {
                 </div>
 
             </header>
-
-            <Routes>
-                <Route path="/footer" element={<Footer />} />
-            </Routes>
+        <Footer/>
 
         </>
     );
