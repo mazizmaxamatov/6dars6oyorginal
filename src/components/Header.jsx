@@ -1,6 +1,6 @@
 import React from 'react';
 import { Route, Routes, NavLink } from "react-router-dom";
-import Footer from './Footer';
+import Footer from './components/Footer';
 
 
 function Header() {
