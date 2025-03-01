@@ -16,48 +16,49 @@ const Menu = () => {
                     </div>
                     <div className='menu_main mt-[100px] flex justify-between'>
                         <div className='box w-[350px]'>
-                            <p className='w-[350px] h-[350px]'>
+                            <h2  className=' bg-bur bg-cover w-[350px] h-[350px]'>
                                 <button className='w-[190px] h-[60px] bg-[#4E9F0D] text-[#FFFFFF] font-Raleway font-normal text-[24px] mt-[288px]'>14 500</button>
-                            </p>
+                            </h2>
                             <h3 className='text-[#4E9F0D] font-Raleway font-bold text-[24px] mt-[30px]'>C  ГОВЯДИНОЙ</h3>
-                            <p className='text-[#FFFFFF] font-Roboto font-normal text-[16px] max-w-[344px] mt-[10px]'>Свежая хрустящая булочка, листики салата, маринованный огурец c луком и небольшая котлета, сдобренная майонезом и кетчупом</p>
+                            <span className='text-[#FFFFFF] font-Roboto font-normal text-[16px] max-w-[344px] mt-[10px]'>Свежая хрустящая булочка, листики салата, маринованный огурец c луком и небольшая котлета, сдобренная майонезом и кетчупом</span>
                         </div>
                         <div className='box w-[350px]'>
-                            <p className='w-[350px] h-[350px]'>
+                            <h2 className=' bg-bur bg-cover w-[350px] h-[350px]'>
                                 <button className='w-[190px] h-[60px] bg-[#4E9F0D] text-[#FFFFFF] font-Raleway font-normal text-[24px] mt-[288px]'>14 500</button>
-                            </p>
+                            </h2>
                             <h3 className='text-[#4E9F0D] font-Raleway font-bold text-[24px] mt-[30px]'>C  ГОВЯДИНОЙ</h3>
-                            <p className='text-[#FFFFFF] font-Roboto font-normal text-[16px] max-w-[344px] mt-[10px]'>Свежая хрустящая булочка, листики салата, маринованный огурец c луком и небольшая котлета, сдобренная майонезом и кетчупом</p>
+                            <span className='text-[#FFFFFF] font-Roboto font-normal text-[16px] max-w-[344px] mt-[10px]'>Свежая хрустящая булочка, листики салата, маринованный огурец c луком и небольшая котлета, сдобренная майонезом и кетчупом</span>
                         </div>
                         <div className='box w-[350px]'>
-                            <p className='w-[350px] h-[350px]'>
+                            <h2 className=' bg-bur bg-cover w-[350px] h-[350px]'>
                                 <button className='w-[190px] h-[60px] bg-[#4E9F0D] text-[#FFFFFF] font-Raleway font-normal text-[24px] mt-[288px]'>14 500</button>
-                            </p>
+                            </h2>
                             <h3 className='text-[#4E9F0D] font-Raleway font-bold text-[24px] mt-[30px]'>C  ГОВЯДИНОЙ</h3>
-                            <p className='text-[#FFFFFF] font-Roboto font-normal text-[16px] max-w-[344px] mt-[10px]'>Свежая хрустящая булочка, листики салата, маринованный огурец c луком и небольшая котлета, сдобренная майонезом и кетчупом</p>
+                            <span className='text-[#FFFFFF] font-Roboto font-normal text-[16px] max-w-[344px] mt-[10px]'>Свежая хрустящая булочка, листики салата, маринованный огурец c луком и небольшая котлета, сдобренная майонезом и кетчупом</span>
                         </div>
                     </div>
                     <div className='menu_main mt-[100px] flex justify-between'>
                         <div className='box w-[350px]'>
-                            <p className='w-[350px] h-[350px]'>
+                            <h2 className=' bg-bur bg-cover w-[350px] h-[350px]'>
                                 <button className='w-[190px] h-[60px] bg-[#4E9F0D] text-[#FFFFFF] font-Raleway font-normal text-[24px] mt-[288px]'>14 500</button>
-                            </p>
+                            </h2>
                             <h3 className='text-[#4E9F0D] font-Raleway font-bold text-[24px] mt-[30px]'>C  ГОВЯДИНОЙ</h3>
-                            <p className='text-[#FFFFFF] font-Roboto font-normal text-[16px] max-w-[344px] mt-[10px]'>Свежая хрустящая булочка, листики салата, маринованный огурец c луком и небольшая котлета, сдобренная майонезом и кетчупом</p>
+                            <span className='text-[#FFFFFF] font-Roboto font-normal text-[16px] max-w-[344px] mt-[10px]'>Свежая хрустящая булочка, листики салата, маринованный огурец c луком и небольшая котлета, сдобренная майонезом и кетчупом</span>
                         </div>
                         <div className='box w-[350px]'>
-                            <p className='w-[350px] h-[350px]'>
+                            <h2 className=' bg-bur bg-cover w-[350px] h-[350px]'>
                                 <button className='w-[190px] h-[60px] bg-[#4E9F0D] text-[#FFFFFF] font-Raleway font-normal text-[24px] mt-[288px]'>14 500</button>
-                            </p>
+                            </h2>
                             <h3 className='text-[#4E9F0D] font-Raleway font-bold text-[24px] mt-[30px]'>C  ГОВЯДИНОЙ</h3>
-                            <p className='text-[#FFFFFF] font-Roboto font-normal text-[16px] max-w-[344px] mt-[10px]'>Свежая хрустящая булочка, листики салата, маринованный огурец c луком и небольшая котлета, сдобренная майонезом и кетчупом</p>
+                            <span
+                             className='text-[#FFFFFF] font-Roboto font-normal text-[16px] max-w-[344px] mt-[10px]'>Свежая хрустящая булочка, листики салата, маринованный огурец c луком и небольшая котлета, сдобренная майонезом и кетчупом</span>
                         </div>
                         <div className='box w-[350px]'>
-                            <p className='w-[350px] h-[350px]'>
+                            <h2 className=' bg-bur bg-cover w-[350px] h-[350px]'>
                                 <button className='w-[190px] h-[60px] bg-[#4E9F0D] text-[#FFFFFF] font-Raleway font-normal text-[24px] mt-[288px]'>14 500</button>
-                            </p>
+                            </h2>
                             <h3 className='text-[#4E9F0D] font-Raleway font-bold text-[24px] mt-[30px]'>C  ГОВЯДИНОЙ</h3>
-                            <p className='text-[#FFFFFF] font-Roboto font-normal text-[16px] max-w-[344px] mt-[10px]'>Свежая хрустящая булочка, листики салата, маринованный огурец c луком и небольшая котлета, сдобренная майонезом и кетчупом</p>
+                            <span className='text-[#FFFFFF] font-Roboto font-normal text-[16px] max-w-[344px] mt-[10px]'>Свежая хрустящая булочка, листики салата, маринованный огурец c луком и небольшая котлета, сдобренная майонезом и кетчупом</span>
                         </div>
                     </div>
                 </div>

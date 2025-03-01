@@ -4,7 +4,8 @@ export default {
   theme: {
     extend: {
      backgroundImage: {
-      burger: "url('/src/Assets/hidr.png')"
+      burger: "url('/src/Assets/hidr.png')",
+      bur: "url('/src/Assets/burger.png')"
      }
     },
   },
